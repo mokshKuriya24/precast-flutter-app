@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506010581144",
+    "project_id": "precastcomponenttracker",
+    "storage_bucket": "precastcomponenttracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506010581144:android:6fe5b174479ebf76ddf8ed",
+        "android_client_info": {
+          "package_name": "com.example.precastqrmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqg3MHOXQ84Ug7zdkdv7GUZy2RsjZMswg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,4 @@
-package com.example.precast_component_app
+package com.example.precastqrmanager
 
 import io.flutter.embedding.android.FlutterActivity
 
